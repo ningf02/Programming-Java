@@ -1,3 +1,4 @@
 # Programming-Java
-Java programs I did in first year college CSU11010
+CSU11010 (Intro to Programming)
 
+Java programs I did in first year college 
